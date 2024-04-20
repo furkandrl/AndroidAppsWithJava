@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Odev3</string>
+
+    <string-array name="city_names">
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>Karabük</item>
+    </string-array>
+
+    <string-array name="city_plates">
+        <item>34</item>
+        <item>06</item>
+        <item>78</item>
+    </string-array>
+
+    <string-array name="city_descriptions">
+        <item>İstanbul Şehri çkjnfdsjblhjdbvkwghjrvljh</item>
+        <item>Ankara Şehri fgmnsfdbljbjlhfsdbjhvkghs</item>
+        <item>Karabük Şehri ksrjgnkljghjısghsflkghukghkrtghuıe</item>
+    </string-array>
+</resources>
