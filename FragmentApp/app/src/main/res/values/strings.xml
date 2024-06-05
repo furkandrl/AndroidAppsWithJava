@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="AndroidVersions">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>GingerBread</item>
+        <item>Honeycump</item>
+        <item>IceCream</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lolipop</item>
+        <item>Marshmallow</item>
+        <item>Nouget</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Android 10</item>
+        <item>Android 11</item>
+        <item>Android 12</item>
+        <item>Android 13</item>
+        <item>Android 14</item>
+    </string-array>
+</resources>
